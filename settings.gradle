@@ -1,0 +1,1 @@
+include ':app', ':day05_mvp_chouqu', ':day05_lxc5', ':day06_lxc6', ':day08_lxc8', ':day08_mvp', ':day10_mvp_chouqu_banner', ':day10_lxc_10', ':day11_zhouce'
